@@ -1,6 +1,6 @@
 ## Pop Rocks Syntax
 
-Pop Rocks is a low contrast dark theme inspired by Hardcore's [iTerm colors](https://github.com/hardcore/iTerm-colors), and [Pop Rocks](http://www.pop-rocks.com/) the candy.
+Pop Rocks is a low contrast dark theme inspired by Hardcore's [iTerm colors](https://github.com/hardcore/iTerm-colors), and [Pop Rocks](http://www.pop-rocks.com/) the candy.  It's also available for Sublime, Textmate, Emacs, and XCode [here](http://github.com/fujiin/poprocks).
 
 ### Ruby
 
