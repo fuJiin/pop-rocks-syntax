@@ -1,0 +1,15 @@
+{
+  "name": "pop-rocks-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Dark, medium contrast theme inspired by Pop Rocks, the candy",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/fujiin/pop-rocks-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
